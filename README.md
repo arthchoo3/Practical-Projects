@@ -5,4 +5,10 @@ This repository contains projects I have made that have practical everyday uses.
 
 ## Trading Card Case
 
-## 
+## Tie Rack
+
+## Hat Rack
+
+## Discuss Coat rack
+
+## Screwdriver Holder
