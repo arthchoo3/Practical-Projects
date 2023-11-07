@@ -4,10 +4,10 @@ This repository contains projects I have made that have practical everyday uses.
 ## Backpack Strap Buckle
 ![IMG_9435](https://github.com/arthchoo3/Practical-Projects/assets/140445967/64deb9d2-73fd-441f-9979-c1b2502de7f1)
 
-##Dirt Bike Goggle Buckle
+## Dirt Bike Goggle Buckle
 ![IMG_9436](https://github.com/arthchoo3/Practical-Projects/assets/140445967/459f2428-7d19-4057-a025-ccba9c74cb0e)
 
-## Tie Rack / Tie Rack
+## Tie Rack / Hat Rack
 ![unnamed-2](https://github.com/arthchoo3/Practical-Projects/assets/140445967/8450f6db-ce55-4b3c-829c-a4a81c92b427)
 
 ## Discuss Coat rack
