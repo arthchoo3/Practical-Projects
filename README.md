@@ -5,11 +5,7 @@ This repository contains projects I have made that have practical everyday uses.
 The ladderlock buckle on my backpack broke so I designed and printed a replacement part.
 
 
-## Trading Card Case
-
-## Tie Rack
-
-## Hat Rack
+## Tie Rack / Tie Rack
 
 ## Discuss Coat rack
 
